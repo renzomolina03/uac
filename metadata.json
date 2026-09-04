@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Control de Boletas Judiciales y Acuses",
+  "description": "Sistema automatizado para control interno de boletas judiciales, causas, fechas de audiencia, alertas automáticas por tribunal y exportación mensual a Excel y PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
